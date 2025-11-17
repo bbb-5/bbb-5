@@ -1,1 +1,1 @@
-![BBB-8](bbb5.gif)
+<img src="bbb5.gif" width="250" height="150"/>
