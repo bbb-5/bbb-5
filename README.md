@@ -1,1 +1,1 @@
-<img src="bbb5.gif" width="250" height="150"/>
+<img src="bbb8-close-up.png"/>
